@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto', sans-serif;  
+    margin: 0;
+    background-image: url("images/bg.png");
+}
+h1 {
+font-size: 50px;
+}
+.name-highlite{
+    color: orange;
+}
+.about{
+    color: white;
+}
+.button{
+    background-color: orange;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: black;
+    font-weight: 700;
+    border-radius:5px ;
+    background-image: linear-gradient(orange,red);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 5px;
+}
+.bg{
+    background-image: url("images/bg.png");
+}
+section{
+    height: 500px;
+    padding-bottom: 5px;
+    margin-left: 50px;
+}
+.whytravel{
+    color: cornsilk;
+}
+.card{
+    box-shadow:10px 10px 40px gray;
+    border-radius: 5px;
+    height: 50%;
+}
+#cardd{
+    border-left: 7px solid orange;
+}
+#abs{
+    border-left: 7px solid cyan;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
